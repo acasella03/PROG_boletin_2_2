@@ -7,5 +7,5 @@ public class Boletin2_2 {
         area = (float) Math.pow(lado, 2);
         System.out.println("area = " + area);
     }
-
+/*version 1.0 para COD */
 }
